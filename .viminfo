@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1657804186,,"wq!"
+|2,0,1657809743,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -23,19 +23,29 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
-	r
-|3,1,36,0,1,0,1657292640,"r"
+""1	LINE	0
+	THIS IS GIT HUB PRACTICE
+|3,1,1,1,1,0,1657809735,"THIS IS GIT HUB PRACTICE"
+"2	LINE	0
+	d
+|3,0,2,1,1,0,1657809730,"d"
+"-	CHAR	0
+	e
+|3,0,36,0,1,0,1657809729,"e"
 
 # File marks:
-'0  2  11  ~/README.md
-|4,48,2,11,1657804186,"~/README.md"
-'1  5  29  ~/.gitconfig
-|4,49,5,29,1657292657,"~/.gitconfig"
-'2  1  23  /testapp/README.md
-|4,50,1,23,1657292494,"/testapp/README.md"
+'0  1  0  ~/README.md
+|4,48,1,0,1657809743,"~/README.md"
+'1  2  11  ~/README.md
+|4,49,2,11,1657804186,"~/README.md"
+'2  5  29  ~/.gitconfig
+|4,50,5,29,1657292657,"~/.gitconfig"
+'3  1  23  /testapp/README.md
+|4,51,1,23,1657292494,"/testapp/README.md"
 
 # Jumplist (newest first):
+-'  1  0  ~/README.md
+|4,39,1,0,1657809743,"~/README.md"
 -'  2  11  ~/README.md
 |4,39,2,11,1657804186,"~/README.md"
 -'  1  0  ~/README.md
@@ -44,10 +54,26 @@
 |4,39,5,29,1657292657,"~/.gitconfig"
 -'  5  29  ~/.gitconfig
 |4,39,5,29,1657292657,"~/.gitconfig"
+-'  5  29  ~/.gitconfig
+|4,39,5,29,1657292657,"~/.gitconfig"
+-'  5  29  ~/.gitconfig
+|4,39,5,29,1657292657,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1657292599,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1657292599,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1657292599,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1657292599,"~/.gitconfig"
+-'  1  23  /testapp/README.md
+|4,39,1,23,1657292494,"/testapp/README.md"
+-'  1  23  /testapp/README.md
+|4,39,1,23,1657292494,"/testapp/README.md"
+-'  1  23  /testapp/README.md
+|4,39,1,23,1657292494,"/testapp/README.md"
+-'  1  23  /testapp/README.md
+|4,39,1,23,1657292494,"/testapp/README.md"
 -'  1  23  /testapp/README.md
 |4,39,1,23,1657292494,"/testapp/README.md"
 -'  1  23  /testapp/README.md
@@ -60,11 +86,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/README.md
-	*	1657804183	0
-	"	2	11
-	^	2	12
-	.	2	11
-	+	2	11
+	*	1657809741	0
+	"	1	0
+	.	1	0
+	+	1	0
 
 > ~/.gitconfig
 	*	1657292654	0
